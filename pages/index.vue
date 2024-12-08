@@ -1,10 +1,7 @@
 <script setup></script>
 
 <template>
-  <div>
-    <Header />
-    <Profile/>
-    <ProfileHeader/>
-    <Alert />
+  <div class="Main">
+    Main page
   </div>
 </template>
