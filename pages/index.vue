@@ -1,3 +1,10 @@
+<script setup></script>
+
 <template>
-  <div>index page</div>
+  <div>
+    <Header />
+    <Profile/>
+    <ProfileHeader/>
+    <Alert />
+  </div>
 </template>
